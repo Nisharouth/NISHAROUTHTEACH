@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mutual Fund Insights</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Mutual Fund Insights</h1>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#services">Services</a>
+                <a href="#plans">Plans</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h2>Grow Your Wealth with Smart Investments</h2>
+        <p>Discover the best mutual fund options for your financial goals.</p>
+        <a href="#plans" class="btn">Explore Plans</a>
+    </section>
+
+    <section id="about" class="container">
+        <h2>About Us</h2>
+        <p>We provide expert guidance on mutual funds, ensuring maximum returns with minimal risk.</p>
+    </section>
+
+    <section id="services" class="container">
+        <h2>Our Services</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Fund Analysis</h3>
+                <p>We analyze and recommend the best-performing mutual funds.</p>
+            </div>
+            <div class="card">
+                <h3>Goal Planning</h3>
+                <p>Customized plans to achieve your financial goals.</p>
+            </div>
+            <div class="card">
+                <h3>Portfolio Management</h3>
+                <p>Manage and optimize your investment portfolio.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="plans" class="container">
+        <h2>Investment Plans</h2>
+        <div class="plan">
+            <h3>SIP Plan</h3>
+            <p>Start with small monthly investments.</p>
+        </div>
+        <div class="plan">
+            <h3>Lump Sum</h3>
+            <p>Invest a large amount for higher returns.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact Us</h2>
+        <p>Email: support@mutualfundinsights.com</p>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Mutual Fund Insights. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
